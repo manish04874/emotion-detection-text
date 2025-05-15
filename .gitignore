@@ -1,0 +1,13 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore model files (can upload manually if needed)
+models/*.joblib
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
